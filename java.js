@@ -27,6 +27,31 @@ const discount = sum * 0.10;
 const action = sum - discount;
 console.log("Action:", action);
 
+// Задача 5
+const namb = 8.5;
+console.log(Math.floor(namb));
+
+// Задача 6
+const past = "6px";
+console.log(Number.parseFloat(past));
+
+// Задача 7
+const int = "12";
+console.log(Number.parseInt(int));
+
+// Задача 8
+const kor = 256;
+console.log(Math.sqrt(kor));
+
+// Задача 9
+const chus = "15px";
+console.log(Number.parseInt(chus));
+console.log(chus.toString(chus));
+
+
+
+
+
 
 
 
